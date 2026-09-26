@@ -1,0 +1,72 @@
+{
+  "scraped_at": "2026-09-26T11:06:08.179602",
+  "data": {
+    "plans": [
+      {
+        "name": "Duo",
+        "price_naira": 2100,
+        "trial_offer": null,
+        "max_accounts": 2,
+        "features": [
+          "2 Premium accounts",
+          "Ad-free music listening",
+          "Cancel anytime",
+          "Download to listen offline",
+          "High audio quality",
+          "Listen with friends in real time",
+          "Organise listening queue",
+          "Play songs in any order"
+        ]
+      },
+      {
+        "name": "Family",
+        "price_naira": 2500,
+        "trial_offer": null,
+        "max_accounts": 6,
+        "features": [
+          "Ad-free music listening",
+          "Cancel anytime",
+          "Download to listen offline",
+          "High audio quality",
+          "Listen with friends in real time",
+          "Organise listening queue",
+          "Parental controls for the plan manager",
+          "Play songs in any order",
+          "Up to 6 Premium accounts"
+        ]
+      },
+      {
+        "name": "Individual",
+        "price_naira": 1600,
+        "trial_offer": "1 month for ₦0",
+        "max_accounts": 1,
+        "features": [
+          "Ad-free music listening",
+          "Cancel anytime",
+          "Download to listen offline",
+          "High audio quality",
+          "Listen with friends in real time",
+          "Organise listening queue",
+          "Play songs in any order"
+        ]
+      },
+      {
+        "name": "Student",
+        "price_naira": 800,
+        "trial_offer": "1 month for ₦0",
+        "max_accounts": 1,
+        "features": [
+          "1 verified Premium account",
+          "Ad-free music listening",
+          "Cancel anytime",
+          "Discount for eligible students",
+          "Download to listen offline",
+          "High audio quality",
+          "Listen with friends in real time",
+          "Organise listening queue",
+          "Play songs in any order"
+        ]
+      }
+    ]
+  }
+}
